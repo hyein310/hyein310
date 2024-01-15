@@ -16,8 +16,11 @@ Here are some ideas to get you started:
 
 <a href="https://hy31n.tistory.com/" target="_blank">
 <div align="center">
+  
   ![header](https://capsule-render.vercel.app/api?type=venom&text=HYEIN&fontColor=67008c)
+  
 </a>
+
 
 ###  :sparkles: Welcome to my github profile !
 
