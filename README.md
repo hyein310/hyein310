@@ -6,7 +6,7 @@
 
 <br/>
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&size=60&pause=1000&color=000000&center=true&vCenter=true&width=880&height=120&lines=%E2%9C%A8+Welcome+!+HyeIn'S+GITHUB+%E2%9C%A8)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lilita+One&size=60&pause=1000&color=0400B3&center=true&vCenter=true&width=880&height=120&lines=%E2%9C%A8+Welcome+!+HyeIn'S+GITHUB+%E2%9C%A8)](https://git.io/typing-svg)
 
 
   ## 🍀 About Me ..
