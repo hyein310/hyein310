@@ -64,5 +64,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hyein310&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/hyein310?pet-id=5" width="1000" height="120"/>
+</a>
 </div>
 
